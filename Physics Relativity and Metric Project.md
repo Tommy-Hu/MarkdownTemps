@@ -296,7 +296,4 @@ If you studied calculus before, you may observe that as $r$ goes to infinity, th
 
 This is every you need to know about metrics in general relativity. Hopefully you enjoyed this video and learned something new today. Thank's for watching!
 
-## Citations
-1. [What is the relationship between a metric tensor and a metric? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2856754/what-is-the-relationship-between-a-metric-tensor-and-a-metric#:~:text=In%20short%3A,between%20(infinitesimally)%20close%20points.)
-2. 
 [^1]:This is not the only matrix multiplication operation.
